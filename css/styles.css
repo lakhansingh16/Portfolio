@@ -201,3 +201,17 @@ hr{
     width: 10%;
     margin:100px auto ;
 }
+@media only screen and (max-width: 600px){
+    .profile-picture{
+        width:50%;
+    }
+    .skill-row{
+        width: 80%;
+    }
+    .certification-item{
+        width: 80%;
+    }
+    .project-item{
+        width: 80%;
+    }
+}
